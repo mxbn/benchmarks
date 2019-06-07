@@ -15,4 +15,4 @@
 * cargo  
 
 ![benchmark](benchmark.png "benchmark")
-* As ran on AMD Ryzen Threadripper 1950X 16-Core*
+*As ran on AMD Ryzen Threadripper 1950X 16-Core*

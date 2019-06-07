@@ -14,5 +14,6 @@
 * rustup  
 * cargo  
 
-![](benchmark.png)
-*As ran on AMD Ryzen Threadripper 1950X 16-Core*
+![](benchmark.png)  
+
+.center[As ran on AMD Ryzen Threadripper 1950X 16-Core]

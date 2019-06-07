@@ -16,4 +16,4 @@
 
 ![](benchmark.png)  
 
-*As ran on AMD Ryzen Threadripper 1950X 16-Core*
+*- as ran on AMD Ryzen Threadripper 1950X 16-Core*

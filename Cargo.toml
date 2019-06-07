@@ -1,0 +1,12 @@
+[package]
+name = "rusthttp"
+version = "0.1.0"
+authors = ["max"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.0"
+
+[[bin]]
+name = "app-rust"
+path = "app.rs"

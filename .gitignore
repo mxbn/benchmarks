@@ -1,2 +1,5 @@
 build
 crow
+target
+.gradle
+Cargo.lock

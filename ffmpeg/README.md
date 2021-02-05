@@ -9,8 +9,10 @@
 
 | System | Time |
 | :--- | ---: |
+| Macbook Pro (15-inch, 2018), Intel i7 | 6.4 sec |
+| Linux, Ryzen 5 2600 | 6.8 sec |
 | Linux, Ryzen 5 PRO 3500U | 12.5 sec |
 | Macbook (12-inch, 2017), Intel Core m3 | 24.0 sec |
-| Macbook Pro (15-inch, 2018), Intel i7 | 6.4 sec |
 
+* as ran on the same video file
 * ffmpeg version 4.3.1

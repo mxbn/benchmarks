@@ -3,3 +3,4 @@ crow
 target
 .gradle
 Cargo.lock
+.ipynb_checkpoints

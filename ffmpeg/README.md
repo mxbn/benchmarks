@@ -9,6 +9,7 @@
 
 | System | Time |
 | :--- | ---: |
+| Linux, Ryzen 7 6800U | 5.0 sec |
 | Macbook Pro (15-inch, 2018), Intel i7 | 6.4 sec |
 | Linux, Ryzen 5 2600 | 6.8 sec |
 | Linux, Ryzen 5 PRO 3500U | 12.5 sec |

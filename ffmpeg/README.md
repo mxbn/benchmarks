@@ -9,7 +9,7 @@
 
 | System | Time |
 | :--- | ---: |
-| Linux, Ryzen 9 7940HS | 3.2 sec |
+| Linux, Ryzen 9 7940HS (ffmpeg-2:6.1) | 3.2 sec |
 | Linux, Ryzen 7 6800U | 5.0 sec |
 | Macbook Pro (15-inch, 2018), Intel i7 | 6.4 sec |
 | Linux, Ryzen 5 2600 | 6.8 sec |
